@@ -40,11 +40,6 @@ Check out the live interactive preview:
 
 Navigate to the project directory:
 
-Bash
-cd community-kids-event-blog-card
-
----
-
 Open index.html in your web browser.
 
 📂 Project Structure
