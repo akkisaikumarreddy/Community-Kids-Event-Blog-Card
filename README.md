@@ -38,19 +38,12 @@ Check out the live interactive preview:
 
 ---
 
-Navigate to the project directory:
-
-Open index.html in your web browser.
-
-📂 Project Structure <br>
-Plaintext <br>
-community-kids-event-blog-card/<br>
-
-─ index.html       # Content structure for the kids event card <br>
-─ styles.css       # Clean layout styling and responsive rules <br>
-─ Kids Club.jpg    # Event thumbnail image  <br>
-─ README.md        # Project documentation  <br>
-─ LICENSE          # MIT License  <br>
+## 📂 Project Structure 
+─ index.html    &emsp;   # Content structure for the kids event card <br>
+─ styles.css    &emsp;    # Clean layout styling and responsive rules <br>
+─ Kids Club.jpg  &emsp;   # Event thumbnail image  <br>
+─ README.md    &emsp;     # Project documentation  <br>
+─ LICENSE      &emsp;     # MIT License  <br>
 
 ---
 
