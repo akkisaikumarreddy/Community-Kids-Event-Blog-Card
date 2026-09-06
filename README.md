@@ -39,11 +39,11 @@ Check out the live interactive preview:
 ---
 
 ## 📂 Project Structure 
-─ index.html    &emsp;   # Content structure for the kids event card <br>
-─ styles.css    &emsp;    # Clean layout styling and responsive rules <br>
-─ Kids Club.jpg  &emsp;   # Event thumbnail image  <br>
-─ README.md    &emsp;     # Project documentation  <br>
-─ LICENSE      &emsp;     # MIT License  <br>
+─ index.html    &emsp; &emsp;   # Content structure for the kids event card <br>
+─ styles.css    &emsp; &emsp;    # Clean layout styling and responsive rules <br>
+─ Kids Club.jpg  &emsp; &emsp;   # Event thumbnail image  <br>
+─ README.md    &emsp; &emsp;     # Project documentation  <br>
+─ LICENSE      &emsp; &emsp;    # MIT License  <br>
 
 ---
 
