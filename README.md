@@ -43,14 +43,14 @@ Navigate to the project directory:
 Open index.html in your web browser.
 
 📂 Project Structure
-Plaintext
+Plaintext 
 community-kids-event-blog-card/
 │
-├── index.html       # Content structure for the kids event card
-├── styles.css       # Clean layout styling and responsive rules
-├── Kids Club.jpg    # Event thumbnail image
-├── README.md        # Project documentation
-└── LICENSE          # MIT License
+├── index.html       # Content structure for the kids event card <br>
+├── styles.css       # Clean layout styling and responsive rules <br>
+├── Kids Club.jpg    # Event thumbnail image  <br>
+├── README.md        # Project documentation  <br>
+└── LICENSE          # MIT License  <br>
 
 ---
 
