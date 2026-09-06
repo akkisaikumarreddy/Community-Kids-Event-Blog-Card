@@ -34,7 +34,7 @@ Check out the live interactive preview:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/akkisaikumarreddy/community-kids-event-blog-card.git](https://github.com/akkisaikumarreddy/community-kids-event-blog-card.git)
+   git clone [https://github.com/akkisaikumarreddy/community-kids-event-blog-card.git]
 
 ---
 
