@@ -1,6 +1,6 @@
 # Community Kids Event Blog Card
 
-A clean, responsive, and minimalist blog card component designed to highlight community events, youth activities, and local announcements. Built with semantic HTML5 and modern CSS3.
+A clean, responsive, and minimalist blog card component designed to highlight community events, youth activities, and local announcements. Built with  HTML and CSS.
 
 ![Project Preview](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -10,16 +10,6 @@ A clean, responsive, and minimalist blog card component designed to highlight co
 
 Check out the live interactive preview:  
 👉 **[View Live Demo](https://akkisaikumarreddy.github.io/Community-Kids-Event-Blog-Card/)**  
-
----
-
-## ✨ Features
-
-- **Event-Focused Layout**: Tailored for community, youth, and local event highlights.
-- **Fully Responsive**: Adapts seamlessly from mobile screens up to desktop views.
-- **Modern Flexbox Layout**: Dynamic sizing and crisp visual hierarchy without rigid fixed heights.
-- **Accessible Typography**: Styled using native system fonts for fast loading and clean presentation across platforms.
-- **Zero Dependencies**: Pure HTML and CSS—no frameworks or external libraries required.
 
 ---
 
@@ -35,15 +25,6 @@ Check out the live interactive preview:
 1. Clone this repository to your local machine:
    ```bash
    git clone [https://github.com/akkisaikumarreddy/community-kids-event-blog-card.git]
-
----
-
-## 📂 Project Structure 
-─ index.html    &emsp; &emsp;   # Content structure for the kids event card <br>
-─ styles.css    &emsp; &emsp;    # Clean layout styling and responsive rules <br>
-─ Kids Club.jpg  &emsp; &emsp;   # Event thumbnail image  <br>
-─ README.md    &emsp; &emsp;     # Project documentation  <br>
-─ LICENSE      &emsp; &emsp;    # MIT License  <br>
 
 ---
 
