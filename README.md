@@ -9,7 +9,7 @@ A clean, responsive, and minimalist blog card component designed to highlight co
 ## 🚀 Live Demo
 
 Check out the live interactive preview:  
-👉 **[View Live Demo](https://github.com/akkisaikumarreddy.github.io/community-kids-event-blog-card/)**  
+👉 **[View Live Demo](https://akkisaikumarreddy.github.io/Community-Kids-Event-Blog-Card/)**  
 
 ---
 
